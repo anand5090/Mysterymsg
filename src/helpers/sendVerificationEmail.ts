@@ -3,7 +3,7 @@ import VerificationEmail from "../../emails/VerificationEmail";
 import { ApiResponse } from '@/types/ApiResponse';
 
 //sdgfgdghfkjsffffsdf
-
+//sggggggggggggggggggggggggggggggggggg
 export async function sendVerificationEmail(email: string, username: string, verifyCode: string
 ): Promise<ApiResponse> {
     try {
